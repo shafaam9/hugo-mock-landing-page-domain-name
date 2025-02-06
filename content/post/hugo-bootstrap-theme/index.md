@@ -1,31 +1,43 @@
 ---
-title: "Hugo Bootstrap Theme alpha"
-description: "Hugo theme for a secure, blazing fast and SEO-ready static website, using Bootstrap 5."
-date: 2022-05-22T13:35:02+01:00
+title: "Welcome to StudyBuddy"
+description: "StudyBuddy helps you connect with the right study partners and succeed together."
+date: 2025-02-06
 draft: false
-images: ["site-feature-image.png"]
+#images: ["site-feature-image.png"]
 categories: ["Hugo Bootstrap Theme"]
-tags: ["Hugo","Bootstrap","Featured"]
-keywords: ["hugo bootstrap theme"]
-authors: ["Filipe Carneiro"]
+tags: ["StudyBuddy","Learning","Education"]
+keywords: ["study partner", "learning groups", "study buddy"]
+authors: ["Shafaa Munjal"]
 aliases:
-  - hugo-bootstrap-theme-alpha
+  - studybuddy-home
 ---
 
-> Hugo theme for a secure, blazing fast and SEO-ready static website, using Bootstrap 5.
+> StudyBuddy: Your Perfect Study Partner
 
-Open-source MIT Licensed Hugo Theme, using Bootstrap 5.
+StudyBuddy is a smart platform designed to help you find study partners based on your strengths, weaknesses, and learning preferences. Whether you're preparing for an exam or need someone to brainstorm ideas with, StudyBuddy connects you with people who match your academic needs.
 
-- 🛡️ Security aware
+# Illustrated Features: 
 
-  Get A+ scores on Mozilla Observatory out of the box. Easily change the default Security Headers to suit your needs.
+1. Study Group Matching
 
-- ⚡ Fast by default
+As a student, I want to be matched with study partners enrolled in the same courses so we can help each other understand difficult concepts better.
 
-  Get 100 scores on Google Lighthouse by default. Hugo Bootstrap Theme removes unused css, prefetches links, and lazy loads images.
+3. Study Buddy Forum
 
-- 📈 SEO-ready
+As a student, I want to be a part of a study forum where I can post questions and answers with other students in the same course to learn from each other.
 
-  Use sensible defaults for structured data, open graph, and Twitter cards. Or easily change the Search Engine Optimization settings to your liking.
+3. Study Progress Trackert
 
-Check the [GitHub repository](https://github.com/filipecarneiro/hugo-bootstrap-theme) for the release notes.
+As a productivity-focused user, I want to track my progress in various subjects and compare it with my study group's progress, so I can measure my improvement and stay motivated. 
+
+4. Group Scheduling
+
+As a student, I want to schedule group study sessions directly in the app so I can find times that work for everyone and stay organized. 
+
+5. Learning Preference-Based Matching
+
+As a student, I want to be matched with study partners who share similar learning preferences, so our study sessions are more effective.
+
+6. Study Session Reminders
+
+As a student, I want to receive reminders for study sessions and tasks assigned by my study group, so that I stay on top of my assignments and deadlines.
