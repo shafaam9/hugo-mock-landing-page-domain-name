@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning on Study Buddy</title>
+    <link>http://localhost:1313/hugo-bootstrap-theme/tags/learning/</link>
+    <description>Recent content in Learning on Study Buddy</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Open-source &lt;a class=&#34;text-muted text-decoration-none&#34; href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE&#34;&gt;MIT&lt;/a&gt; Licensed.</copyright>
+    <lastBuildDate>Thu, 06 Feb 2025 15:28:04 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugo-bootstrap-theme/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to StudyBuddy</title>
+      <link>http://localhost:1313/hugo-bootstrap-theme/post/hugo-bootstrap-theme/</link>
+      <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-bootstrap-theme/post/hugo-bootstrap-theme/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;StudyBuddy: Your Perfect Study Partner&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;StudyBuddy is a smart platform designed to help you find study partners based on your strengths, weaknesses, and learning preferences. Whether you&amp;rsquo;re preparing for an exam or need someone to brainstorm ideas with, StudyBuddy connects you with people who match your academic needs.&lt;/p&gt;&#xA;&lt;h1 id=&#34;illustrated-features&#34;&gt;Illustrated Features:&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Study Group Matching&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;As a student, I want to be matched with study partners enrolled in the same courses so we can help each other understand difficult concepts better.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
