@@ -2,50 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/shafaam9/hugo-mock-landing-page/authors/</loc>
+    <loc>https://shafaam9.github.io/hugo-mock-landing-page/authors/</loc>
     <lastmod>2025-02-06T22:24:48-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/shafaam9/hugo-mock-landing-page/categories/</loc>
+    <loc>https://shafaam9.github.io/hugo-mock-landing-page/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/shafaam9/hugo-mock-landing-page/page/</loc>
+    <loc>https://shafaam9.github.io/hugo-mock-landing-page/page/</loc>
     <lastmod>2025-02-06T22:24:48-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/shafaam9/hugo-mock-landing-page/contact/</loc>
+    <loc>https://shafaam9.github.io/hugo-mock-landing-page/contact/</loc>
     <lastmod>2025-02-06T22:24:48-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/shafaam9/hugo-mock-landing-page/tags/index/</loc>
+    <loc>https://shafaam9.github.io/hugo-mock-landing-page/tags/index/</loc>
     <lastmod>2025-02-06T22:24:48-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/shafaam9/hugo-mock-landing-page/series/</loc>
+    <loc>https://shafaam9.github.io/hugo-mock-landing-page/series/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/shafaam9/hugo-mock-landing-page/authors/shafaa-munjal/</loc>
+    <loc>https://shafaam9.github.io/hugo-mock-landing-page/authors/shafaa-munjal/</loc>
     <lastmod>2025-02-06T22:24:48-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/shafaam9/hugo-mock-landing-page/authors/filipe-carneiro/</loc>
+    <loc>https://shafaam9.github.io/hugo-mock-landing-page/authors/filipe-carneiro/</loc>
     <lastmod>2025-02-06T22:24:48-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/shafaam9/hugo-mock-landing-page/</loc>
+    <loc>https://shafaam9.github.io/hugo-mock-landing-page/</loc>
     <lastmod>2025-02-06T22:24:48-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/shafaam9/hugo-mock-landing-page/tags/</loc>
+    <loc>https://shafaam9.github.io/hugo-mock-landing-page/tags/</loc>
     <lastmod>2025-02-06T22:24:48-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
