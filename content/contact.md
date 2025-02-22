@@ -8,4 +8,4 @@ menu:
 
 # Contact
 
-To contact us, please email: shafaam@wharton.upenn.edu on GitHub.
+[Open an issue](https://github.com/shafaam9/hugo-mock-landing-page-autodeployed/issues/new) on GitHub.
