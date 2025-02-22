@@ -26,6 +26,11 @@ jobs:
         with:
           hugo-version: "0.144.1"
           extended: true
+      
+      - name: Install Hugo Modules
+        run: |
+          hugo mod get -u
+          hugo mod tidy
 
       - name: 🏗️ Compile Hugo Static Files
         run: hugo -D --gc --minify
