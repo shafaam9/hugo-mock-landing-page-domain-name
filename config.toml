@@ -37,8 +37,6 @@ enableEmoji = true
 #  post = "/post/:title/"
 
 [module]
-  [[module.imports]]
-    path = "github.com/filipecarneiro/hugo-bootstrap-theme"
   [module.hugoVersion]
     extended = true
     min = "0.144.1"
