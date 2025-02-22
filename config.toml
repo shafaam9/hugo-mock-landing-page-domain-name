@@ -10,7 +10,6 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
 theme = 'hugo-bootstrap-theme'
-themesdir = 'node_modules/@filipecarneiro'
 
 
 disableHugoGeneratorInject = true
@@ -41,7 +40,7 @@ enableEmoji = true
 [module]
   [module.hugoVersion]
     extended = true
-    min = "0.99.1"
+    min = "0.144.1"
     max = ""
   [[module.mounts]]
     source = "assets"
